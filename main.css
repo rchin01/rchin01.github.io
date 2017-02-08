@@ -1,0 +1,68 @@
+body{
+	font-family: arial, sans-serif;
+	background-image: url("background.jpg");
+	text-align: center;
+}
+
+a{
+	text-decoration: none;
+	color: #95aed6;
+}
+
+h2{
+	text-align: left;
+}
+
+li{
+	margin-top: -10px;
+	margin-bottom: -10px;
+	margin-left: 20px;
+	color: #757575;
+}
+
+h2.underline{
+	text-decoration: underline;
+}
+
+
+a.current{
+	color: #003ea3;
+}
+
+p.maintext{
+	text-align: left;
+	font-size: 20px;
+}
+
+#navbar{
+	border-style: solid;
+	border-color: #000000;
+	background-color: #d9dce2;
+	padding: 1%;
+	position: relative;
+	top: 1%;
+}
+
+#links{
+	display: block;
+	margin-bottom: 0px;
+	font: 25px arial, sans-serif;
+}
+
+#indexphoto{
+	width: 400px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-style: solid;
+	border-color: #000000;
+	border-radius: 2%;
+}
+
+#biophoto{
+	width: 500px;
+	display: inline-block;
+	border-style: solid;
+	border-color: #000000;
+	border-radius: 2%;
+}
